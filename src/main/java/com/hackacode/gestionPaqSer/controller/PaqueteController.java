@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@RequestMapping("/api/paquetes")
+@RequestMapping("/paquetes")
 @Slf4j
 public class PaqueteController {
 
